@@ -6,7 +6,7 @@ Solutions to Katas
 
 In order to be eligible for XP in the oneleif discord, make sure you follow the format provided below
 
-## Directory structure:
+## Directory structure
 Kata Solutions/Kata Name/Language name/KataName.language extension
 
 Examples:
