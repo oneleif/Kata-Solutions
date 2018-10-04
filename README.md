@@ -11,5 +11,8 @@ Kata Solutions/Kata Name/Language name/KataName.language extension
 
 Examples:
 
-* Kata Solutions/Camel Case/Swift/ZachEriksen.swift
-* Kata Solutions/Count the Digits/C#/SabienAmbrose.cs
+* Kata-Solutions/CamelCase/Swift/ZachEriksen.swift
+* Kata-Solutions/CountTheDigits/C#/SabienAmbrose.cs
+
+## File Inclusions
+At the top of the file you MUST include a commented out version of the challenge description or (if it has one) a link
