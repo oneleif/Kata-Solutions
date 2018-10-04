@@ -16,3 +16,6 @@ Examples:
 
 ## File Inclusions
 At the top of the file you MUST include a commented out version of the challenge description or (if it has one) a link
+
+## Testing
+Some solutions we may test before giving XP. At the VERY LEAST the solution needs to compile. It should run, however, and give the correct solution.
